@@ -1,5 +1,4 @@
-<img align="center" src="/Banner.png" style="padding: 0; box-shadow: 3px 3px 10px #00000035; width=100%;">
-<h1 align="left">Hello there! I'm MarcL!</h1>
+<h1 align="left">Hello there! I'm Camilla!</h1>
 
 <br>
 
