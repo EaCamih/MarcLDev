@@ -1,24 +1,31 @@
 <h1 align="left">Hello there! I'm Camilla!</h1>
 
-<br>
+<p>Hi there! My name is Camilla, I'm 20 years old, living in Brazil and a full-stack developer.</p>
+
+<hr/>
+
+### 💻 `×` Currently working on:
+
+- [Kazami Bot](https://kazami.xyz/)
+- [IdealBus](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-ti1-0385100-dificuldade-em-mobilidade-urbana)
+  
+<hr/>
 
 ### 🔗 `×` Languages and Tools:
 
   <p align="left">
     <a href="https://skillicons.dev"">
-      <img src='https://skillicons.dev/icons?i=react,c,cs,html,css,js,ts,nodejs,py,mongodb,mysql,java,flutter' style="height: 40px;">
+      <img src='https://skillicons.dev/icons?i=ts,js,nodejs,py,java,c,cs,html,css,nextjs,react,flutter,mongodb,mysql' style="height: 40px;">
     </a>
   </p>
-  <br>
 
 ### 💻 `×` Softwares:
 
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src='https://skillicons.dev/icons?i=visualstudio,vscode,unreal,figma' style="height: 40px;"/>
+      <img src='https://skillicons.dev/icons?i=visualstudio,vscode,ps,obsidian,figma' style="height: 40px;"/>
     </a>
   </p>
-  <br>
   <hr/>
   <br>
   
