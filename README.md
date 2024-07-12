@@ -23,7 +23,7 @@
 
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src='https://skillicons.dev/icons?i=visualstudio,vscode,ps,obsidian,figma' style="height: 40px;"/>
+      <img src='https://skillicons.dev/icons?i=visualstudio,vscode,ps,notion,obsidian,figma' style="height: 40px;"/>
     </a>
   </p>
   <hr/>
